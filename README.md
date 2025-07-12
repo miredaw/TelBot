@@ -5,7 +5,7 @@ A Telegram auto-responder bot with a web-based control panel for managing respon
 ## Preview
 
 ### Web Management Panel
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dash.png)
 - **Dashboard**: Overview of bot status, user statistics, and recent activity
 
 ![Settings](images/settings.png)
